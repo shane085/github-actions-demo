@@ -1,5 +1,6 @@
 {
   "name": "my-react-app",
+  "homepage": "https://shane085/github.io/react-test-action-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
